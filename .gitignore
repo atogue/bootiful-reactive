@@ -1,0 +1,17 @@
+## the following directories or files should not be uploaded on GitHub repository
+## Please, keep it in mind!
+
+# intelliJ project configuration
+bootiful-reactive.iml
+/.idea
+
+# testing
+/coverage
+
+# production
+/build
+
+# development
+/target
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
