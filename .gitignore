@@ -13,6 +13,9 @@ bootiful-reactive.iml
 # development
 /target
 
+# on MacOS
+.DS_Store
+
 
 ### the following references represented the default ignored by spring boot definition.
 HELP.md
